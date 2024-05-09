@@ -38,3 +38,6 @@ Bagian ini berisi kelas-kelas yang bertanggung jawab untuk mengendalikan alur pr
 ### update
 ![Screenshot (780)](https://github.com/Ilham9675/LP11DPBO2024C2/assets/117561201/36e79a4b-d9ca-4725-b18c-8f1d6abce482)
 ![Screenshot (776)](https://github.com/Ilham9675/LP11DPBO2024C2/assets/117561201/d3668b3a-764b-4025-a9be-25323d3f4bc2)
+
+### video preview
+https://github.com/Ilham9675/LP11DPBO2024C2/assets/117561201/1e8ebea4-b428-47ca-b1b5-75e9e4e209a4
